@@ -1,0 +1,17 @@
+{
+  "name": "serve_base_hb1",
+  "version": "1.0.0",
+  "description": "Servidor  - Base de dados e views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "mysql2": "^3.3.0",
+    "sequelize": "^6.31.1"
+  }
+}
